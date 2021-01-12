@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap");
+.body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #fbfcfc !important;
+}
+
+h1, h3, h2, h5, p {
+  font-family: "Open Sans", sans-serif;
+  text-align: justify;
+}
+
+h3 {
+  font-weight: bold;
+  font-weight: 19px;
+}
+
+h1 {
+  font-weight: 800;
+}
+
+.header {
+  background-image: url("./../img/header1.png");
+  background-position: center center;
+  background-size: 100% 100%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.header button {
+  background-color: #e42d3e;
+  color: white;
+  margin-top: 11%;
+  font-weight: bold;
+  font-size: 14px;
+  border: none;
+  border-radius: 30px;
+  padding: 10px 20px;
+}
+
+.header button:focus {
+  border: none;
+}
+
+.first {
+  background-image: url("./../img/f1.png");
+  background-position: center center;
+  background-size: 100% 100%;
+  padding-top: 50px;
+  padding-bottom: 10%;
+}
+
+.second {
+  background-image: url("./../img/f2.png");
+  background-position: center center;
+  background-size: 100% 100%;
+  padding-top: 4%;
+}
+
+.second li {
+  list-style-image: url("../img/tick.png");
+}
+
+.second .myrow {
+  margin-top: 10%;
+}
+
+.second .mypic {
+  margin-top: -70px;
+}
+/*# sourceMappingURL=style.css.map */
