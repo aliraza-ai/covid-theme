@@ -25,6 +25,11 @@ h2
     font-weight: 700;
     font-weight: 16px;
 }
+h5
+{
+    font-weight: bold;
+    font-size: 16px;
+}
 .header
 {
     background-image: url("./../img/header1.png");
@@ -90,6 +95,10 @@ h2
     background-image: url("./../img/last.png");
     background-position: center center;
     background-size: 100% 100%;
+    .list
+    {
+        margin-bottom: 20px;
+    }
 }
 
 footer
