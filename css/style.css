@@ -62,10 +62,24 @@ h1 {
 }
 
 .second .myrow {
-  margin-top: 20%;
+  margin-top: 25%;
 }
 
 .second .mypic {
   margin-top: -70px;
+}
+
+.last {
+  background-image: url("./../img/last.png");
+  background-position: center center;
+  background-size: 100% 100%;
+}
+
+footer {
+  background-image: url("./../img/footer.png");
+  background-position: center center;
+  background-size: 100% 100%;
+  padding-top: 15%;
+  padding-bottom: 15%;
 }
 /*# sourceMappingURL=style.css.map */
